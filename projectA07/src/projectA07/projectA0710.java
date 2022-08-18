@@ -1,0 +1,13 @@
+package projectA07;
+
+public class projectA0710 {
+
+	public static void main(String[] args) {
+		int[] array1;
+		float[]  farray1;
+		
+		int array2[];
+
+	}
+
+}
